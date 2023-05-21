@@ -1,0 +1,80 @@
+{
+    "Name": "MR BHASKAR BANIK",
+    "Address": " 5, 1ST FLOOR, MATA NIVAS, OPP WATER TANK AAREY RD, DOMBIVALI (EAST) MAHARASHTRA, THANE 421201",
+    "StatementDate": "June 10, 2022",
+    "PaymentDueDate": "June 28, 2022",
+    "TotalAmountDue": "4,913.04",
+    "MinimumAmountDue": "4,130.00",
+    "TableForm": [
+        {
+            "Previous Balance": "4,134.74",
+            "Purchases / Charges": "4,913.04",
+            "Cash Advances": "0.00",
+            "Payments / Credits": "4,134.74",
+            "Credit Limit (Including cash)": "2,50,000.00",
+            "Available Credit (Including cash)": "2,25,389.56",
+            "Cash Limit": "18,000.00",
+            "Available Cash": "18,000.00",
+            "Whole Statements": [
+                {
+                    "Date": "26/05/2022",
+                    "SerNo.": "6201795912",
+                    "Transaction Details": "Interest Amount Amortization - <4/9>9 EMI AMAZON",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "273.99"
+                },
+                {
+                    "Date": "26/05/2022",
+                    "SerNo.": "6201795921",
+                    "Transaction Details": "SGST-CI@9%",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "24.66"
+                },
+                {
+                    "Date": "26/05/2022",
+                    "SerNo.": "6201795931",
+                    "Transaction Details": "CGST-CI@9%",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "24.66"
+                },
+                {
+                    "Date": "26/05/2022",
+                    "SerNo.": "6201795941",
+                    "Transaction Details": "Principal Amount Amortization <4/9>9 EMI AMAZON",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "3,804.33"
+                },
+                {
+                    "Date": "26/05/2022",
+                    "SerNo.": "6203130631",
+                    "Transaction Details": "CLICK TO PAY PAYMENT RECEIVED",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "4,134.74 CR"
+                },
+                {
+                    "Date": "28/05/2022",
+                    "SerNo.": "6209015788",
+                    "Transaction Details": "RAZ*Licious Bangalore IN",
+                    "Reward Points": "16",
+                    "Amount (in rupees)": "785.40"
+                }
+            ]
+        }
+    ],
+    "otherDetails": {
+        "Card Bank Name": "ICICI Bank",
+        "Card BIN": "4501XX",
+        "Card Brand": "Visa",
+        "Card Variant": "Rubyx",
+        "Card Product": "",
+        "Card Acronym": "",
+        "Card Annual Fees": "",
+        "Card Late Payment Fees": "",
+        "Card Cashback %": "",
+        "Card Rewards %": "",
+        "Is the Card best": "",
+        "Billing date": "",
+        "Grace period = Due date - bill date": "",
+        "Due date of the bill": ""
+    }
+}

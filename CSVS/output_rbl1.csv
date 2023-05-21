@@ -1,0 +1,53 @@
+Table: Table_1
+
+Date,Description,Amount,
+2 Sep 2022,PAYMENT RECEIVED RAZORPAY,2835.00,
+15 Sep 2022,Goods and Services Tax,0.00,
+
+
+
+
+
+Table: Table_2
+
+Payment Due Date,Not Applicable,
+Last Bill Amount,2835.00,
+Payments & Credits,2835.00,
++ New Debits,0.00,
+Transferred to EMI,000,
+Monthly EMI Debits,000,
++ Fees & Charges,000,
++ Goods & Services Tax,0.00,
+Statement Period,16-08-2022 to 15-09-2022,
+Statement Date,15-09-2022,
+Total Credit Limit,463600,
+Available Credit Limit,459560.65,
+Available Cash Limit,22800.00,
+
+
+
+
+
+Table: Table_3
+
+Opt for EMI,SPLITMPAY,SMS "EMI,
+Pay utility bills,bills2pay,Download,
+Opt for Insurance,R-Shield,SMS "INS,
+
+
+
+
+
+Table: Table_4
+
+Opening Balance,1197,
+Earned,0,
+Redeemed,0,
+Adjustments,29,
+Available Reward Points,1226,
+Points To Expire on 30-09-2022,0,
+
+
+
+
+

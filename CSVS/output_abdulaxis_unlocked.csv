@@ -1,0 +1,47 @@
+Table: Table_1
+
+Total Payment Due,Minimum Payment Due,Statement Period,Payment Due Date,
+470.80 Dr,100.00 Dr,17/04/2023 15/05/2023,05/06/2023,
+
+
+
+
+
+Table: Table_2
+
+Credit Card Number,Credit Limit,Available Credit Limit,Available Cash Limit,
+451457 5522,150000.00,143582.74,30000.00,
+
+
+
+
+
+Table: Table_3
+
+Previous Balance,- Payments,- Credits +,Purchase + Cash,Advance + Other,Debit&Charges,=Total Payment Due,
+219.57 Dr,219.57,0.00,470.80,0.00,0.00,470.80 Dr,
+
+
+
+
+
+Table: Table_4
+
+DATE,TRANSACTION DETAILS,MERCHANT CATEGORY,AMOUNT (Rs.),
+,Card No 451457******5522 Name ABDUL BILAL ABDUL,KALAM,,
+01/05/2023,IMPS PAYMENT#312109627114,,219.57 Cr,
+05/05/2023,AYTM_PAYTMMOVIESEVENOIDAIN,ENTERTAINMENT,470.80 Dr,
+
+
+
+
+
+Table: Table_5
+
+eDGE REWARD POINTS,BALANCE AS ON DATE,CUSTOMER ID,
+1978,11-05-2023,861946542,
+
+
+
+
+

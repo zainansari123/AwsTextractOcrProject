@@ -1,0 +1,478 @@
+[
+    {
+        "Label": "DATE",
+        "value": "19/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "ANI TECHNOLOGIES PVT LBANGALOREIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "TRANSPORT"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "13700 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "200 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "19/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGY INSTAMARTBANGALOREIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "34300 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1300 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "20/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "UBERINDIASYSTEMSPRIVATNOIDAIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "CAR RENTALS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "49462 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1900 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "20/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "UBERINDIASYSTEMSPRIVATNOIDAIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "CAR RENTALS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "7772 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "000 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "30/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "GO AIRLINES (INDIA) LIMUMBAIIN"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "AIRLINES"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "249400 Cr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "3700 Dr"
+    },
+    {
+        "Label": "DATE",
+        "value": "30/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "PTM*UBER INDIA SYSTEMSNOIDAIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "TRAVEL"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "138492 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "5500 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "30/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "29900 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1100 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "30/04/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SHREE SAI RENT A CARMUMBAUND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "CAR RENTALS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "250000 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "3700 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "01/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "26500 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1000 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "02/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "27400 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1000 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "03/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "ANI TECHNOLOGIES PVT LBANGALOREIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "TRANSPORT"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "12600 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "100 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "03/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "ANI TECHNOLOGIES PVT LBANGALOREIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "TRANSPORT"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "34700 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "500 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "03/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "8500 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "000 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "06/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "#FVRH3ELMB7XOYP"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": ""
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "1872332 Cr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "000 Dr"
+    },
+    {
+        "Label": "DATE",
+        "value": "07/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "40500 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "1600 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "08/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "MYNTRA DESIGNS PVT LTMUMBAUND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "CLOTH STORES"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "48900 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "2400 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "09/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "ANI TECHNOLOGIES PVT LBANGALOREIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "TRANSPORT"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "12500 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "100 Cr"
+    },
+    {
+        "Label": "DATE",
+        "value": "09/05/2023"
+    },
+    {
+        "Label": "TRANSACTION DETAILS",
+        "value": "SWIGGYBENGALURUIND"
+    },
+    {
+        "Label": "MERCHANT CATEGORY",
+        "value": "RESTAURANTS"
+    },
+    {
+        "Label": "AMOUNT (Rs)",
+        "value": "9000 Dr"
+    },
+    {
+        "Label": "CASHBACK EARNED",
+        "value": "000 Cr"
+    },
+    {
+        "Label": "Payments",
+        "value": "1872332"
+    },
+    {
+        "Label": "Credits",
+        "value": "292900"
+    },
+    {
+        "Label": "Payment Due Date",
+        "value": "05/06/2023"
+    },
+    {
+        "Label": "GST registration no",
+        "value": "27AAACU2414K3ZD"
+    },
+    {
+        "Label": "GST registration no",
+        "value": "27AAACU2414K3ZD"
+    },
+    {
+        "Label": "Previous Balance",
+        "value": "1872332 Dr"
+    },
+    {
+        "Label": "Total Payment Due",
+        "value": "1138200 Dr"
+    },
+    {
+        "Label": "Minimum Payment Due",
+        "value": "57000 Dr"
+    },
+    {
+        "Label": "=Total Payment Due",
+        "value": "1138200 Dr"
+    },
+    {
+        "Label": "Total Payment Due",
+        "value": "1138200 Dr"
+    },
+    {
+        "Label": "Minimum Payment Due",
+        "value": "57000 Dr"
+    },
+    {
+        "Label": "=Total Payment Due",
+        "value": "1138200 Dr"
+    },
+    {
+        "Label": "Call",
+        "value": "1860 419 5555"
+    },
+    {
+        "Label": "For any assistance please visit",
+        "value": ""
+    },
+    {
+        "Label": "Statement Period",
+        "value": "17/04/2023"
+    },
+    {
+        "Label": "Statement Generation Date",
+        "value": "15/05/2023"
+    },
+    {
+        "Label": "Credit Card Number",
+        "value": "533467"
+    },
+    {
+        "Label": "Credit Limit",
+        "value": "44500000"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "42582894"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "13350000"
+    },
+    {
+        "Label": "Cash Advance +",
+        "value": "1431100"
+    },
+    {
+        "Label": "Advance + Other Debit&Charges",
+        "value": "000"
+    },
+    {
+        "Label": "Card No",
+        "value": "533467******7288"
+    },
+    {
+        "Label": "Name",
+        "value": "BHASKAR HARIBHUSHAN BANIK"
+    },
+    {
+        "Label": "CONTACT US",
+        "value": "Grievance RedressalNodal Officer080 61865200"
+    },
+    {
+        "Label": "cashback* on Flipkart",
+        "value": "5%"
+    },
+    {
+        "Label": "cashback*",
+        "value": "4%"
+    },
+    {
+        "Label": "cashback* on other spends",
+        "value": "15%"
+    },
+    {
+        "Label": "Page",
+        "value": "of 3"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Label": "Payment Due Date",
+        "value": "05/06/2023"
+    },
+    {
+        "Label": "Statement Period",
+        "value": "17/04/2023 15/05/2023"
+    },
+    {
+        "Label": "Statement Generation Date",
+        "value": "15/05/2023"
+    },
+    {
+        "Label": "Credit Card Number",
+        "value": "451457 5522"
+    },
+    {
+        "Label": "Credit Limit",
+        "value": "150000.00"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "143582.74"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "30000.00"
+    },
+    {
+        "Label": "Card No",
+        "value": "451457******5522"
+    },
+    {
+        "Label": "Name",
+        "value": "ABDUL BILAL ABDUL KALAM"
+    }
+]

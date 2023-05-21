@@ -1,0 +1,49 @@
+Table: Table_1
+
+Previous Balance,Purchases/Charges,Cash Advances,Payments/Credits,
+3928.26,3919.56,0.00,3928.26,
+
+
+
+
+
+Table: Table_2
+
+Credit Limit (Including cash),Available Credit (Including cash),Cash Limit,Available Cash,
+300000.00,284733.92,30000.00,30000.00,
+
+
+
+
+
+Table: Table_3
+
+Date,SerNo.,Transaction Details,Intl." amount,Amount (in),
+,4315XXXXXXXX1003,,,,
+30/11/2022,6890791391,UPI Payment Received,,3928.26 CR,
+10/12/2022,6933227514,Interest Amount Amortization - <9/12>Cleartrip Private Limi,,167.50,
+11/12/2022,6933227518,SGST-CI@9%,,15.08,
+11/12/2022,6933227528,CGST-CI@9%,,15.08,
+10/12/2022,6933227538,Principal Amount Amortization <9/12>Cleartrip Private Limi,,3078.49,
+10/12/2022,6933259977,Interest Amount Amortization - <9/12>LOOK LIKE FAMILY SA,,14.05,
+11/12/2022,6933259980,SGST-CI@9%,,1.27,
+11/12/2022,6933259994,CGST-CI@9%,,1.27,
+10/12/2022,6933260004,Principal Amount Amortization <9/12>LOOK LIKE FAMILY SA,,258.14,
+10/12/2022,6933269621,Interest Amount Amortization - <9/12>AVENUE SUPERMARTS LTD,,18.85,
+11/12/2022,6933269626,SGST-Cl@9%,,1.70,
+11/12/2022,6933269634,CGST-CI@9%,,170,
+10/12/2022,6933269650,Principal Amount Amortization <9/12>AVENUE SUPERMARTS LTD,,346.43,
+
+
+
+
+
+Table: Table_4
+
+Earned,Earnings transfered to Amazon Pay balance*,
+0,0,
+
+
+
+
+

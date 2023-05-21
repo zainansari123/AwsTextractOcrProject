@@ -1,0 +1,46 @@
+[
+    {
+        "Label": "Available Credit (Including cash)",
+        "value": "87842.60"
+    },
+    {
+        "Label": "PAYMENT DUE DATE",
+        "value": "January 29 2023"
+    },
+    {
+        "Label": "STATEMENT DATE",
+        "value": "January 11 2023"
+    },
+    {
+        "Label": "Invoice No",
+        "value": "1574110100513016"
+    },
+    {
+        "Label": "Previous Balance",
+        "value": "7210.94"
+    },
+    {
+        "Label": "Total Amount due",
+        "value": "8157.40"
+    },
+    {
+        "Label": "Minimum Amount due",
+        "value": "440.00"
+    },
+    {
+        "Label": "Cash Advances",
+        "value": "0.00"
+    },
+    {
+        "Label": "Credit Limit (Including cash)",
+        "value": "96000.00"
+    },
+    {
+        "Label": "Cash Limit",
+        "value": "0.00"
+    },
+    {
+        "Label": "Available Cash",
+        "value": "0.00"
+    }
+]

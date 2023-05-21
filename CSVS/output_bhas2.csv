@@ -1,0 +1,51 @@
+Table: Table_1
+
+Previous Balance,Purchases/Charges,Cash Advances,Payments/Credits,
+4285.86,4143.34,0.00,4286.00,
+
+
+
+
+
+Table: Table_2
+
+Credit Limit (Including cash),Available Credit (Including cash),Cash Limit,Available Cash,
+250000.00,218594.58,18000.00,18000.00,
+
+
+
+
+
+Table: Table_3
+
+Date,SerNo.,Transaction Details,Reward Points,Intl.# amount,Amount (in),
+,4501XXXXXXXX9005,,,,,
+27/03/2022,5991904868,UPI Payment Received,0,,4286.00 CR,
+26/03/2022,5994873640,Interest Amount Amortization <2/9>9 EMI AMAZON,0,,361.17,
+27/03/2022,5994873641,SGST-CI@9%,0,,32.51,
+27/03/2022,5994873642,CGST-Cl@9%,0,,32.51,
+26/03/2022,5994873643,Principal Amount Amortization <2/9>9 EMI AMAZON,0,,3717.15,
+
+
+
+
+
+Table: Table_4
+
+Transaction/ LoanType,Creation Date,Finish Date,No. of Installments,EMI/Loan Amount,Pending Installments,Outstanding Amount*,Monthly Installment Amount,
+Merchant EMI conversions,27/02/2022,27/10/2022,9,34653.69,7,28548.29,4078.33,
+
+
+
+
+
+Table: Table_5
+
+,Opening Balance,Earned during the month,Rdeemed during the month,Closing Balance,
+,4665,0,0,4665,
+,,,,,
+
+
+
+
+

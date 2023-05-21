@@ -1,0 +1,46 @@
+[
+    {
+        "Label": "Payment Due Date",
+        "value": "10/10/2022"
+    },
+    {
+        "Label": "Statement Generation Date",
+        "value": "17/09/2022"
+    },
+    {
+        "Label": "Total Payment Due",
+        "value": "000"
+    },
+    {
+        "Label": "Minimum Payment Due",
+        "value": "000"
+    },
+    {
+        "Label": "Statement Period",
+        "value": "20/08/2022"
+    },
+    {
+        "Label": "Credit Card Number",
+        "value": "559342 4486"
+    },
+    {
+        "Label": "Credit Limit",
+        "value": "66500000"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "66500000"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "19950000"
+    },
+    {
+        "Label": "Card No",
+        "value": "559342 *4486"
+    },
+    {
+        "Label": "Name",
+        "value": "BHASKAR HARIBHUSHAN BANIK"
+    }
+]

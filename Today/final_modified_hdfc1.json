@@ -1,0 +1,74 @@
+[
+    {
+        "Label": "Address",
+        "value": "F#. 304 JAY MALHAR CHS LTD. OPP. SUNDARACMPLX TUKARAM NGR DOMBIVALI EMUMBAI-421201 MHS"
+    },
+    {
+        "Label": "Name",
+        "value": "BHASKAR BANIK"
+    },
+    {
+        "Label": "Payment Due Date",
+        "value": "05/10/2022"
+    },
+    {
+        "Label": "Statement Date",
+        "value": "15/09/2022"
+    },
+    {
+        "Label": "GSTIN",
+        "value": "33AAACH2702H2Z6"
+    },
+    {
+        "Label": "Total Dues",
+        "value": "6262.00"
+    },
+    {
+        "Label": "Minimum Amount Due",
+        "value": "320.00"
+    },
+    {
+        "Label": "Email",
+        "value": "BHASKAR.BANIK@GMAIL.COM"
+    },
+    {
+        "Label": "Card No",
+        "value": "5522 60XX XXXX 0078"
+    },
+    {
+        "Label": "Credit Limit",
+        "value": "1120000"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "1113739"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "448000"
+    },
+    {
+        "Label": "OpeningBalance",
+        "value": "0.12"
+    },
+    {
+        "Label": "Payment/Credits",
+        "value": "46.08"
+    },
+    {
+        "Label": "Purchase/Debits",
+        "value": "6307.46"
+    },
+    {
+        "Label": "FinanceCharges",
+        "value": "0.00"
+    },
+    {
+        "Label": "Current Dues",
+        "value": "320.00"
+    },
+    {
+        "Label": "Opening Balance",
+        "value": "746"
+    }
+]

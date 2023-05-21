@@ -1,0 +1,134 @@
+{
+    "Name": "MR BHASKAR HARIBHUSHAN BANIK",
+    "Address": " Netscribes India Pvt Ltd OFFICE NO. 504, 5TH LODHA SUPREMUS, TULSI PIPE RD, RLY CLNY, LOWER PAREL OPP KAMALA MILLS MAHARASHTRA, MUMBAI 400013",
+    "StatementDate": "STATEMENT DATE",
+    "PaymentDueDate": "March 8, 2022",
+    "TotalAmountDue": "21,056.42",
+    "MinimumAmountDue": "5,470.00",
+    "TableForm": [
+        {
+            "Previous Balance": "28,112.72",
+            "Purchases / Charges": "23,536.80",
+            "Cash Advances": "0.00",
+            "Payments / Credits": "30,593.10",
+            "Credit Limit (Including cash)": "9,10,000.00",
+            "Available Credit (Including cash)": "8,69,542.73",
+            "Cash Limit": "91,000.00",
+            "Available Cash": "91,000.00",
+            "Whole Statements": [
+                {
+                    "Date": "09/02/2022",
+                    "SerNo.": "5838230739",
+                    "Transaction Details": "Cash back Lifestyle festive offer",
+                    "Amount (in rupees)": "955.10 CR"
+                },
+                {
+                    "Date": "22/01/2022",
+                    "SerNo.": "5782167149",
+                    "Transaction Details": "AMAZON HTTP://WWW.AM IN",
+                    "Amount (in rupees)": "588.82"
+                },
+                {
+                    "Date": "23/01/2022",
+                    "SerNo.": "5787876083",
+                    "Transaction Details": "Delightful Gourment Pr BANGALORE IN",
+                    "Amount (in rupees)": "989.60"
+                },
+                {
+                    "Date": "23/01/2022",
+                    "SerNo.": "5787975046",
+                    "Transaction Details": "Delightful Gourment Pr BANGALORE IN",
+                    "Amount (in rupees)": "665.60"
+                },
+                {
+                    "Date": "30/01/2022",
+                    "SerNo.": "5808071770",
+                    "Transaction Details": "ROMSON MUMBAI IN",
+                    "Amount (in rupees)": "580.00"
+                },
+                {
+                    "Date": "31/01/2022",
+                    "SerNo.": "5809200158",
+                    "Transaction Details": "Interest Amount Amortization <4/6>6 EMI AMAZON",
+                    "Amount (in rupees)": "36.05"
+                },
+                {
+                    "Date": "31/01/2022",
+                    "SerNo.": "5809200160",
+                    "Transaction Details": "SGST-Cl@9%",
+                    "Amount (in rupees)": "3.25"
+                },
+                {
+                    "Date": "31/01/2022",
+                    "SerNo.": "5809200171",
+                    "Transaction Details": "CGST-Cl@9%",
+                    "Amount (in rupees)": "3.25"
+                },
+                {
+                    "Date": "31/01/2022",
+                    "SerNo.": "5809200183",
+                    "Transaction Details": "Principal Amount Amortization - <4/6>6 EMI AMAZON",
+                    "Amount (in rupees)": "1,018.76"
+                },
+                {
+                    "Date": "01/02/2022",
+                    "SerNo.": "5811907661",
+                    "Transaction Details": "UPI Payment Received",
+                    "Amount (in rupees)": "28,113.00 CR"
+                },
+                {
+                    "Date": "01/02/2022",
+                    "SerNo.": "5813449018",
+                    "Transaction Details": "AMAZON.IN-BILL PAYMENT HTTP://WWW.AM IN",
+                    "Amount (in rupees)": "186.78"
+                },
+                {
+                    "Date": "01/02/2022",
+                    "SerNo.": "5814227348",
+                    "Transaction Details": "www MONEYCONTROL COM GURGAON IN",
+                    "Amount (in rupees)": "99.00"
+                },
+                {
+                    "Date": "04/02/2022",
+                    "SerNo.": "5824782847",
+                    "Transaction Details": "AMAZON MUMBAIIN",
+                    "Amount (in rupees)": "169.00"
+                },
+                {
+                    "Date": "05/02/2022",
+                    "SerNo.": "5830253061",
+                    "Transaction Details": "WAMAN HARI PETHE SON THANE IN",
+                    "Amount (in rupees)": "12,372.00"
+                },
+                {
+                    "Date": "06/02/2022",
+                    "SerNo.": "5832566416",
+                    "Transaction Details": "AMAZON.IN-BILL PAYMENT HTTP://WWW.AM IN",
+                    "Amount (in rupees)": "900.00"
+                },
+                {
+                    "Date": "09/02/2022",
+                    "SerNo.": "5840597858",
+                    "Transaction Details": "6 EMI AMAZON HTTP://WWW.AM",
+                    "Amount (in rupees)": "0.00 CR"
+                }
+            ]
+        }
+    ],
+    "otherDetails": {
+        "Card Bank Name": "ICICI Bank",
+        "Card BIN": "0000XX",
+        "Card Brand": "Other",
+        "Card Variant": "amazon pay",
+        "Card Product": "",
+        "Card Acronym": "",
+        "Card Annual Fees": "",
+        "Card Late Payment Fees": "",
+        "Card Cashback %": "",
+        "Card Rewards %": "",
+        "Is the Card best": "",
+        "Billing date": "",
+        "Grace period = Due date - bill date": "",
+        "Due date of the bill": ""
+    }
+}

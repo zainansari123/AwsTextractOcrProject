@@ -1,0 +1,54 @@
+[
+    {
+        "Label": "Payments/Credits",
+        "value": "29056.10"
+    },
+    {
+        "Label": "Available Cash",
+        "value": "0.00"
+    },
+    {
+        "Label": "PAYMENT DUE DATE",
+        "value": "November 29 2022"
+    },
+    {
+        "Label": "STATEMENT DATE",
+        "value": "November 11 2022"
+    },
+    {
+        "Label": "Invoice No",
+        "value": "1574111100437571"
+    },
+    {
+        "Label": "Previous Balance",
+        "value": "26814.10"
+    },
+    {
+        "Label": "Purchases/Charges",
+        "value": "19119.48"
+    },
+    {
+        "Label": "Total Amount due",
+        "value": "16877.48"
+    },
+    {
+        "Label": "Minimum Amount due",
+        "value": "850.00"
+    },
+    {
+        "Label": "Cash Advances",
+        "value": "0.00"
+    },
+    {
+        "Label": "Credit Limit (Including cash)",
+        "value": "96000.00"
+    },
+    {
+        "Label": "Available Credit (Including cash)",
+        "value": "78015.62"
+    },
+    {
+        "Label": "Cash Limit",
+        "value": "0.00"
+    }
+]

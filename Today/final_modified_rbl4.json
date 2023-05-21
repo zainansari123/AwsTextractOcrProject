@@ -1,0 +1,54 @@
+[
+    {
+        "Label": "Amount",
+        "value": "1200.00"
+    },
+    {
+        "Label": "Payments & Credits",
+        "value": "1200.00"
+    },
+    {
+        "Label": "Payment Due Date",
+        "value": "05 May 2023"
+    },
+    {
+        "Label": "Statement Date",
+        "value": "15-04-2023"
+    },
+    {
+        "Label": "Min.Amt.Due",
+        "value": "200.00"
+    },
+    {
+        "Label": "Total Amount Due PAY NOW",
+        "value": "603.28"
+    },
+    {
+        "Label": "Last Bill Amount",
+        "value": "1200.00"
+    },
+    {
+        "Label": "Mobile",
+        "value": "919XXXXXX752"
+    },
+    {
+        "Label": "Card Number",
+        "value": "XXXXXXXXXXXXXX95"
+    },
+    {
+        "Label": "Total Credit Limit",
+        "value": "509000"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "508398.62"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "22800.00"
+    },
+    {
+        "Label": "E-mail",
+        "value": "3*****R@GMAIL.COM"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Label": "Date",
+        "value": "20 Feb 2023"
+    },
+    {
+        "Label": "Description",
+        "value": "ANNUAL FEE REVERSAL"
+    },
+    {
+        "Label": "Amount",
+        "value": "750.00"
+    },
+    {
+        "Label": "Date",
+        "value": "21 Feb 2023"
+    },
+    {
+        "Label": "Description",
+        "value": "PTM*LIFE INSURANCE COR NOIDA"
+    },
+    {
+        "Label": "Amount",
+        "value": "33833.16"
+    },
+    {
+        "Label": "Date",
+        "value": "1 Mar 2023"
+    },
+    {
+        "Label": "Description",
+        "value": "Paid via CRED Bengaluru IND"
+    },
+    {
+        "Label": "Amount",
+        "value": "885.00"
+    },
+    {
+        "Label": "Date",
+        "value": "12 Mar 2023"
+    },
+    {
+        "Label": "Description",
+        "value": "Goods and Services Tax"
+    },
+    {
+        "Label": "Amount",
+        "value": "000"
+    },
+    {
+        "Label": "Payments & Credits",
+        "value": "885.00"
+    },
+    {
+        "Label": "New Debits",
+        "value": "33833.16"
+    },
+    {
+        "Label": "Transferred to EMI",
+        "value": "000"
+    },
+    {
+        "Label": "Available Cash Limit",
+        "value": "2000.00"
+    },
+    {
+        "Label": "Payment Due Date",
+        "value": "01 Apr 2023"
+    },
+    {
+        "Label": "Statement Date",
+        "value": "12-03-2023"
+    },
+    {
+        "Label": "Fees & Charges",
+        "value": "-750.00"
+    },
+    {
+        "Label": "Min.Amt.Due",
+        "value": "1654.16"
+    },
+    {
+        "Label": "Goods & Services Tax",
+        "value": "0.00"
+    },
+    {
+        "Label": "Total Amount Due PAY NOW",
+        "value": "33083.16"
+    },
+    {
+        "Label": "Last Bill Amount",
+        "value": "885.00"
+    },
+    {
+        "Label": "Total Amount Due PAY NOW",
+        "value": "33083.16"
+    },
+    {
+        "Label": "Last Bill Amount",
+        "value": "885.00"
+    },
+    {
+        "Label": "Mobile",
+        "value": "919XXXXXX964"
+    },
+    {
+        "Label": "Card Number",
+        "value": "XXXXXXXXXXXXXX33"
+    },
+    {
+        "Label": "Goods and Services Tax",
+        "value": "000"
+    },
+    {
+        "Label": "Monthly EMI Debits",
+        "value": "000"
+    },
+    {
+        "Label": "Statement Period",
+        "value": "13-02-2023 to 12-03-2023"
+    },
+    {
+        "Label": "Total Credit Limit",
+        "value": "122000"
+    },
+    {
+        "Label": "Opening Balance",
+        "value": "3016"
+    },
+    {
+        "Label": "Available Credit Limit",
+        "value": "88916.84"
+    },
+    {
+        "Label": "Earned",
+        "value": "338"
+    },
+    {
+        "Label": "Redeemed",
+        "value": "0"
+    },
+    {
+        "Label": "Adjustments",
+        "value": "0"
+    },
+    {
+        "Label": "Available Reward Points",
+        "value": "3354"
+    },
+    {
+        "Label": "E-mail",
+        "value": "A *N@GMAIL.COM"
+    },
+    {
+        "Label": "Points To Expire on 31-03-2023",
+        "value": "0"
+    },
+    {
+        "Label": "Page",
+        "value": "1"
+    }
+]

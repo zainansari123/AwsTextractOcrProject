@@ -1,0 +1,74 @@
+Table: Table_1
+
+Name,BHASKAR BANIK,
+Email,BHASKAR.BANIK@GMAIL.COM,
+Address,F#. 304 JAY MALHAR CHS LTD. OPP. SUNDARA CMPLX TUKARAM NGR DOMBIVALI E MUMBAI-421201 MHS,
+GST No,,
+
+
+
+
+
+Table: Table_2
+
+Payment Due Date,Total Dues,Minimum Amount Due,
+05/10/2022,6262.00,320.00,
+
+
+
+
+
+Table: Table_3
+
+Credit Limit,Available Credit Limit,Available Cash Limit,
+1120000,1113739,448000,
+
+
+
+
+
+Table: Table_4
+
+,,Account Summary,,,
+Opening Balance,Payment/ Credits,Purchase/ Debits,Finance Charges,Total Dues,
+0.12,46.08,6307.46,0.00,6262.00,
+
+
+
+
+
+Table: Table_5
+
+,,Past Dues,(If any),,,
+Overlimit,3 Months+,2 Months,1 Month,Current Dues,Minimum Amount Due,
+0.00,0.00,0.00,0.00,320.00,320.00,
+
+
+
+
+
+Table: Table_6
+
+,Domestic Transactions,,,
+Date,Transaction Description,Feature Reward Points,Amount (in Rs.),
+,BHASKAR H BANIK,,,
+16/08/2022 05:31:06,SpayBBPS 9820349752 Vi Po 22275186,20,824.82,
+14/09/2022,PETRO SURCHARGE WAIVER,,46.08 Cr,
+14/09/2022 07:04:27,GIAN AUTOMOBILE THANE,,4654.28,
+15/09/2022 05:30:47,SpayBBPS 9820349752 Vi Po 22571500,20,828.36,
+,,,,
+
+
+
+
+
+Table: Table_7
+
+,,Reward,Points Summary,,,,
+Opening Balance,Feature + Bonus Reward Points Earned,Disbursed,Adjusted/Lapsed,Closing Balance,Points expiring in 30 days or next month,Points expiring in 60 days,
+746,40,0,20,766,20,20,
+
+
+
+
+

@@ -1,0 +1,73 @@
+{
+    "Name": "MR BHASKAR BANIK",
+    "Address": " MATA NIVAS, OPP WATER TANK AAREY RD, DOMBIVALI (EAST) MAHARASHTRA, THANE 421201",
+    "StatementDate": "April 11, 2022",
+    "PaymentDueDate": "April 29, 2022",
+    "TotalAmountDue": "4,143.20",
+    "MinimumAmountDue": "4,090.00",
+    "TableForm": [
+        {
+            "Previous Balance": "4,285.86",
+            "Purchases / Charges": "4,143.34",
+            "Cash Advances": "0.00",
+            "Payments / Credits": "4,286.00",
+            "Credit Limit (Including cash)": "2,50,000.00",
+            "Available Credit (Including cash)": "2,18,594.58",
+            "Cash Limit": "18,000.00",
+            "Available Cash": "18,000.00",
+            "Whole Statements": [
+                {
+                    "Date": "27/03/2022",
+                    "SerNo.": "5991904868",
+                    "Transaction Details": "UPI Payment Received",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "4,286.00 CR"
+                },
+                {
+                    "Date": "26/03/2022",
+                    "SerNo.": "5994873640",
+                    "Transaction Details": "Interest Amount Amortization <2/9>9 EMI AMAZON",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "361.17"
+                },
+                {
+                    "Date": "27/03/2022",
+                    "SerNo.": "5994873641",
+                    "Transaction Details": "SGST-CI@9%",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "32.51"
+                },
+                {
+                    "Date": "27/03/2022",
+                    "SerNo.": "5994873642",
+                    "Transaction Details": "CGST-Cl@9%",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "32.51"
+                },
+                {
+                    "Date": "26/03/2022",
+                    "SerNo.": "5994873643",
+                    "Transaction Details": "Principal Amount Amortization <2/9>9 EMI AMAZON",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "3,717.15"
+                }
+            ]
+        }
+    ],
+    "otherDetails": {
+        "Card Bank Name": "ICICI Bank",
+        "Card BIN": "4501XX",
+        "Card Brand": "Visa",
+        "Card Variant": "Rubyx",
+        "Card Product": "",
+        "Card Acronym": "",
+        "Card Annual Fees": "",
+        "Card Late Payment Fees": "",
+        "Card Cashback %": "",
+        "Card Rewards %": "",
+        "Is the Card best": "",
+        "Billing date": "",
+        "Grace period = Due date - bill date": "",
+        "Due date of the bill": ""
+    }
+}

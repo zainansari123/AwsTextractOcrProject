@@ -1,0 +1,55 @@
+Table: Table_1
+
+Date,Description,Amount,
+27 Oct 2022,PAYMENT RECEIVED ELECTRONIC XFR,1.00,
+28 Oct 2022,ANNUAL FEE REVERSAL,999.00,
+31 Oct 2022,Paid via CRED Bengaluru IND,7465.00,
+15 Nov 2022,Goods and Services Tax,-179.82,
+
+
+
+
+
+Table: Table_2
+
+Payment Due Date,Not Applicable,
+Last Bill Amount,8642.92,
+Payments & Credits,7466.00,
+New Debits,000,
+Transferred to EMI,0.00,
+Monthly EMI Debits,0.00,
+Fees & Charges,-999.00,
++ Goods & Services Tax,-179.82,
+Statement Period,16-10-2022 to 15-11-2022,
+Statement Date,15-11-2022,
+Total Credit Limit,463600,
+Available Credit Limit,461739.67,
+Available Cash Limit,22800.00,
+
+
+
+
+
+Table: Table_3
+
+Opt for EMI,SPLITMPAY SMS "EMI",
+Pay utility bills,bills2pay Download,
+Opt for Insurance,R-Shield SMS "INS',
+
+
+
+
+
+Table: Table_4
+
+Opening Balance,1306,
+Earned,0,
+Redeemed,0,
+Adjustments,0,
+Available Reward Points,1306,
+Points To Expire on 30-11-2022,381,
+
+
+
+
+

@@ -1,0 +1,143 @@
+{
+    "Name": "MR. HARISH PESWANI",
+    "Address": " A 11 FLAT NO 202 YOGI PRAKASH CO OP HSG SOC LTD EKSAR RD YOGI NAGAR BORIVLI W NEAR MAYUR MEDICAL MAHARASHTRA, MUMBAI 400092",
+    "StatementDate": "November 11, 2022",
+    "PaymentDueDate": "November 29, 2022",
+    "TotalAmountDue": "16,877.48",
+    "MinimumAmountDue": "850.00",
+    "TableForm": [
+        {
+            "Previous Balance": "26,814.10",
+            "Purchases / Charges": "19,119.48",
+            "Cash Advances": "0.00",
+            "Payments / Credits": "29,056.10",
+            "Credit Limit (Including cash)": "96,000.00",
+            "Available Credit (Including cash)": "78,015.62",
+            "Cash Limit": "0.00",
+            "Available Cash": "0.00",
+            "Whole Statements": [
+                {
+                    "Date": "12/10/2022",
+                    "SerNo.": "6709328247",
+                    "Transaction Details": "AMAZON MUMBAI IN",
+                    "Reward Points": "26",
+                    "Amount (in rupees)": "1,321.20"
+                },
+                {
+                    "Date": "13/10/2022",
+                    "SerNo.": "6715736430",
+                    "Transaction Details": "Vodafone Mobile Servic MUMBAI IN",
+                    "Reward Points": "9",
+                    "Amount (in rupees)": "470.82"
+                },
+                {
+                    "Date": "13/10/2022",
+                    "SerNo.": "6715739928",
+                    "Transaction Details": "Vodafone Mobile Servic MUMBAI IN",
+                    "Reward Points": "9",
+                    "Amount (in rupees)": "470.82"
+                },
+                {
+                    "Date": "17/10/2022",
+                    "SerNo.": "6728353583",
+                    "Transaction Details": "FENIL MUMBAI IN",
+                    "Reward Points": "34",
+                    "Amount (in rupees)": "1,700.00"
+                },
+                {
+                    "Date": "17/10/2022",
+                    "SerNo.": "6728462271",
+                    "Transaction Details": "DMART READY MUMBAI IN",
+                    "Reward Points": "36",
+                    "Amount (in rupees)": "1,790.00"
+                },
+                {
+                    "Date": "30/10/2022",
+                    "SerNo.": "6775256638",
+                    "Transaction Details": "INFINITY PAYMENT RECEIVED, THANK YOU",
+                    "Reward Points": "0",
+                    "Amount (in rupees)": "26,814.10 CR"
+                },
+                {
+                    "Date": "28/10/2022",
+                    "SerNo.": "6778202475",
+                    "Transaction Details": "RAZ*ALLIANZASSISTANCE Gurgaon IN",
+                    "Reward Points": "45",
+                    "Amount (in rupees)": "2,242.00"
+                },
+                {
+                    "Date": "28/10/2022",
+                    "SerNo.": "6778203167",
+                    "Transaction Details": "RAZ*ALLIANZASSISTANCE Gurgaon IN",
+                    "Reward Points": "-45",
+                    "Amount (in rupees)": "2,242.00 CR"
+                },
+                {
+                    "Date": "03/11/2022",
+                    "SerNo.": "6794285248",
+                    "Transaction Details": "DMART READY MUMBAI IN",
+                    "Reward Points": "23",
+                    "Amount (in rupees)": "1,170.00"
+                },
+                {
+                    "Date": "07/11/2022",
+                    "SerNo.": "6808171922",
+                    "Transaction Details": "ZAMKUDI GARMENTS PVT LTD MUMBAI IN",
+                    "Reward Points": "116",
+                    "Amount (in rupees)": "5,793.00"
+                },
+                {
+                    "Date": "07/11/2022",
+                    "SerNo.": "6808242651",
+                    "Transaction Details": "OSWAL STEEL CENTRE THANE IN",
+                    "Reward Points": "15",
+                    "Amount (in rupees)": "760.00"
+                },
+                {
+                    "Date": "07/11/2022",
+                    "SerNo.": "6808429517",
+                    "Transaction Details": "SAVREE FASHION MUMBAI IN",
+                    "Reward Points": "28",
+                    "Amount (in rupees)": "1,400.00"
+                },
+                {
+                    "Date": "07/11/2022",
+                    "SerNo.": "6808649075",
+                    "Transaction Details": "FENIL MUMBAI IN",
+                    "Reward Points": "21",
+                    "Amount (in rupees)": "1,060.00"
+                },
+                {
+                    "Date": "09/11/2022",
+                    "SerNo.": "6815562457",
+                    "Transaction Details": "Vi MUMBAI IN",
+                    "Reward Points": "9",
+                    "Amount (in rupees)": "470.82"
+                },
+                {
+                    "Date": "09/11/2022",
+                    "SerNo.": "6815610539",
+                    "Transaction Details": "Vi MUMBAI IN",
+                    "Reward Points": "9",
+                    "Amount (in rupees)": "470.82"
+                }
+            ]
+        }
+    ],
+    "otherDetails": {
+        "Card Bank Name": "ICICI Bank",
+        "Card BIN": "4375XXXXXXXX2001",
+        "Card Brand": "",
+        "Card Variant": "Platinum",
+        "Card Product": "",
+        "Card Acronym": "",
+        "Card Annual Fees": "",
+        "Card Late Payment Fees": "",
+        "Card Cashback %": "",
+        "Card Rewards %": "",
+        "Is the Card best": "",
+        "Billing date": "",
+        "Grace period = Due date - bill date": "",
+        "Due date of the bill": ""
+    }
+}

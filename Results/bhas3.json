@@ -1,0 +1,140 @@
+{
+    "Name": "MR BHASKAR HARIBHUSHAN BANIK",
+    "Address": " Netscribes India Pvt Ltd OFFICE NO. 504, 5TH LODHA SUPREMUS, TULSI PIPE RD, RLY CLNY, LOWER PAREL OPP KAMALA MILLS MAHARASHTRA, MUMBAI 400013",
+    "StatementDate": "July 18, 2022",
+    "PaymentDueDate": "August 5, 2022",
+    "TotalAmountDue": "31,302.74",
+    "MinimumAmountDue": "4,980.00",
+    "TableForm": [
+        {
+            "Previous Balance": "11,910.40",
+            "Purchases / Charges": "33,302.74",
+            "Cash Advances": "0.00",
+            "Payments / Credits": "11,910.40",
+            "Credit Limit (Including cash)": "9,10,000.00",
+            "Available Credit (Including cash)": "8,78,461.95",
+            "Cash Limit": "91,000.00",
+            "Available Cash": "91,000.00",
+            "Whole Statements": [
+                {
+                    "Date": "17/06/2022",
+                    "SerNo.": "6280443891",
+                    "Transaction Details": "Dreamplug Technologies Pv BANGALORE IN",
+                    "Amount (in rupees)": "509.00"
+                },
+                {
+                    "Date": "19/06/2022",
+                    "SerNo.": "6285395072",
+                    "Transaction Details": "AMAZON HTTP://WWW.AM IN",
+                    "Amount (in rupees)": "2,247.00"
+                },
+                {
+                    "Date": "22/06/2022",
+                    "SerNo.": "6297177057",
+                    "Transaction Details": "NEON HOSPITAL THANE IN",
+                    "Amount (in rupees)": "5,000.00"
+                },
+                {
+                    "Date": "24/06/2022",
+                    "SerNo.": "6305539864",
+                    "Transaction Details": "AMAZON RECHARGES MUMBAI IN",
+                    "Amount (in rupees)": "594.72"
+                },
+                {
+                    "Date": "25/06/2022",
+                    "SerNo.": "6306439772",
+                    "Transaction Details": "NEON HOSPITAL THANE IN",
+                    "Amount (in rupees)": "14,881.00"
+                },
+                {
+                    "Date": "25/06/2022",
+                    "SerNo.": "6307052375",
+                    "Transaction Details": "AMAZON RECHARGES MUMBAI IN",
+                    "Amount (in rupees)": "610.00"
+                },
+                {
+                    "Date": "27/06/2022",
+                    "SerNo.": "6317414326",
+                    "Transaction Details": "SYSCOM ORGANIC WORLD PRIV DELHI IN",
+                    "Amount (in rupees)": "99.00"
+                },
+                {
+                    "Date": "01/07/2022",
+                    "SerNo.": "6323827235",
+                    "Transaction Details": "UPI Payment Received",
+                    "Amount (in rupees)": "11,910.40 CR"
+                },
+                {
+                    "Date": "01/07/2022",
+                    "SerNo.": "6327776139",
+                    "Transaction Details": "AMAZON.IN-BILL PAYMENT HTTP://WWW.AM IN",
+                    "Amount (in rupees)": "3,350.00"
+                },
+                {
+                    "Date": "04/07/2022",
+                    "SerNo.": "6339300650",
+                    "Transaction Details": "AMAZON MUMBAI IN",
+                    "Amount (in rupees)": "169.00"
+                },
+                {
+                    "Date": "09/07/2022",
+                    "SerNo.": "6356919956",
+                    "Transaction Details": "Interest Amount Amortization <6/6>6 EMI AMAZON",
+                    "Amount (in rupees)": "8.70"
+                },
+                {
+                    "Date": "10/07/2022",
+                    "SerNo.": "6356919959",
+                    "Transaction Details": "SGST-CI@9%",
+                    "Amount (in rupees)": "0.78"
+                },
+                {
+                    "Date": "10/07/2022",
+                    "SerNo.": "6356919970",
+                    "Transaction Details": "CGST-CI@9%",
+                    "Amount (in rupees)": "0.78"
+                },
+                {
+                    "Date": "09/07/2022",
+                    "SerNo.": "6356919978",
+                    "Transaction Details": "Principal Amount Amortization <6/6>6 EMI AMAZON",
+                    "Amount (in rupees)": "745.78"
+                },
+                {
+                    "Date": "12/07/2022",
+                    "SerNo.": "6364658463",
+                    "Transaction Details": "Interest Amount Amortization <6/6>6 EMI AMAZON",
+                    "Amount (in rupees)": "32.65"
+                },
+                {
+                    "Date": "12/07/2022",
+                    "SerNo.": "6364658467",
+                    "Transaction Details": "SGST-CI@9%",
+                    "Amount (in rupees)": "2.94"
+                },
+                {
+                    "Date": "12/07/2022",
+                    "SerNo.": "6364658474",
+                    "Transaction Details": "CGST-CI@9%",
+                    "Amount (in rupees)": "2.94"
+                }
+            ]
+        }
+    ],
+    "otherDetails": {
+        "Card Bank Name": "ICICI Bank",
+        "Card BIN": "4315XX",
+        "Card Brand": "Visa",
+        "Card Variant": "amazon pay",
+        "Card Product": "",
+        "Card Acronym": "",
+        "Card Annual Fees": "",
+        "Card Late Payment Fees": "",
+        "Card Cashback %": "",
+        "Card Rewards %": "",
+        "Is the Card best": "",
+        "Billing date": "",
+        "Grace period = Due date - bill date": "",
+        "Due date of the bill": ""
+    }
+}

@@ -1,0 +1,53 @@
+Table: Table_1
+
+Previous Balance,Purchases/Charges,Cash Advances,Payments/Credits,
+X 28112.72,X 23536.80,0.00,30593.10,
+
+
+
+
+
+Table: Table_2
+
+Credit Limit (Including cash),Available Credit (Including cash),Cash Limit,Available Cash,
+910000.00,869542.73,91000.00,91000.00,
+
+
+
+
+
+Table: Table_3
+
+Date,SerNo.,Transaction Details,Intl.# amount,Amount (in ),
+,0000XXXXXXXX6730,,,,
+09/02/2022,5838230739,Cash back Lifestyle festive offer,,955.10 CR,
+,4315XXXXXXXX3000,,,,
+22/01/2022,5782167149,AMAZON HTTP//WWW.AM IN,,588.82,
+23/01/2022,5787876083,Delightful Gourment Pr BANGALORE IN,,989.60,
+23/01/2022,5787975046,Delightful Gourment Pr BANGALORE IN,,665.60,
+30/01/2022,5808071770,ROMSON MUMBAI IN,,580.00,
+31/01/2022,5809200158,Interest Amount Amortization <4/6>6 EMI AMAZON,,36.05,
+31/01/2022,5809200160,SGST-Cl@9%,,3.25,
+31/01/2022,5809200171,CGST-Cl@9%,,3.25,
+31/01/2022,5809200183,Principal Amount Amortization - <4/6>6 EMI AMAZON,,1018.76,
+01/02/2022,5811907661,UPI Payment Received,,28113.00 CR,
+01/02/2022,5813449018,AMAZON.IN-BILL PAYMENT HTTP//WWW.AM IN,,186.78,
+01/02/2022,5814227348,www MONEYCONTROL COM GURGAON IN,,99.00,
+04/02/2022,5824782847,AMAZON MUMBAIIN,,169.00,
+05/02/2022,5830253061,WAMAN HARI PETHE SON THANE IN,,12372.00,
+06/02/2022,5832566416,AMAZON.IN-BILL PAYMENT HTTP//WWW.AM IN,,900.00,
+09/02/2022,5840597858,6 EMI AMAZON HTTP//WWW.AM,,0.00 CR,
+
+
+
+
+
+Table: Table_4
+
+Earned,Earnings transfered to Amazon Pay balance*,
+189,189,
+
+
+
+
+
